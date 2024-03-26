@@ -6,7 +6,6 @@ This project is a clone of the [Instagram UI](https://instagram.com). I made it 
 
 The latest update includes some nice new features, such as the gradient border and scroll buttons in stories, and the possibility to add more than one media to the post content, plus, of course, a major overhaul of the UI design!
 
-- **[Live Preview](https://github.com/amanayak/instagram-clone.git/)**
 
 ## 🤓 Improved Skills
 
