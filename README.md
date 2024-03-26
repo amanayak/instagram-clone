@@ -41,5 +41,8 @@ Made by Letscodeweb 🙂
 - [Youtube](https://www.youtube.com/channel/UC78LjF0lONSd91BSlTVcdMw)
 - [Instagram](https://www.instagram.com/letscodeeweb/)
 
-
+- # SCRENN SHOT
+![1](https://github.com/amanayak/instagram-clone/assets/155058144/117e17e3-bc8f-4020-a6ba-c410e7a3cc51)
+![2](https://github.com/amanayak/instagram-clone/assets/155058144/1324a373-a9e4-4b1f-9422-d68293dbf7a4)
+![3](https://github.com/amanayak/instagram-clone/assets/155058144/fbf45a41-f6f6-4953-9548-7c61c4a69a0c)
 Distributed under the MIT License. See ``LICENSE`` for more information.
